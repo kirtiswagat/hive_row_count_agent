@@ -1,0 +1,6 @@
+pyhive
+thrift
+thrift-sasl
+python-dotenv
+streamlit
+pandas
