@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🐝 Hive Row Count Agent
 
 A high-performance Streamlit-based AI agent designed to retrieve row counts from Apache Hive. This tool uses a "Smart-Fetch" strategy: it prioritizes the Hive Metastore (metadata) for instant results and falls back to a live SELECT COUNT(*) only if statistics are unavailable or stale.
